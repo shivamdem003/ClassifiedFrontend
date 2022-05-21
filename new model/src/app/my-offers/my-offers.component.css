@@ -1,0 +1,35 @@
+.offers-content {
+    margin-top: 3%;
+    
+}
+
+.offers-content>div>div {
+    margin-bottom: 30px;
+   
+   
+}
+
+.offers-content>div>div>div {
+    border: 1px solid rgb(199, 180, 180);
+    box-shadow: 8px 8px 8px rgb(196, 196, 217);
+}
+
+.offers-content a.btn {
+    width: 100%;
+    border: none;
+    border-radius: 0px;
+    box-shadow: 8px 8px 8px rgb(196, 196, 217);
+}
+
+.offers-content>div>div>div>span {
+    font-size: 25px;
+    font-weight: 100;
+    background: rgba(80, 81, 82, 0.993);
+    color: white;
+    padding: 10px;
+    box-shadow: 8px 8px 8px rgb(196, 196, 217);
+}
+
+.btn-success {
+    background: rgba(171, 174, 175, 0.993) !important;
+}
